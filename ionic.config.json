@@ -1,0 +1,8 @@
+{
+  "name": "BeenMoving",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "b28d59df"
+}
